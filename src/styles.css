@@ -1,3 +1,4 @@
+@media  screen and (max-width: 1366px) and (min-device-width: 768px) {
 .logo {
     width: 400px;
     height: auto;
@@ -167,3 +168,4 @@ body {
     padding: 16px;
     margin-bottom: 30px;
   }
+}
